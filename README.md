@@ -16,3 +16,4 @@ A lightweight tool to monitor gas fees on the Base network.
 Helps users decide the best time to send transactions.
 
 Built on Base ecosystem 🚀
+Exploring Ethereum Layer 2 (Base) and onchain data.
