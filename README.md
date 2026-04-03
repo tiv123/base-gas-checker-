@@ -39,3 +39,4 @@ Exploring Ethereum Layer 2 (Base) and onchain data.
 - 
 e invested in things. Usage exa
 ## Tech Stack
+- JavaScript
