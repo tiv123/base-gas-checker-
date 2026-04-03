@@ -47,3 +47,4 @@ e invested in things. Usage exa
 - ## Usage
 - open index.html
 Built on Base ecosystem 🚀
+Exploring onchain data
