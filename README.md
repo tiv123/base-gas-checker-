@@ -45,3 +45,4 @@ e invested in things. Usage exa
 - improve UI
 - connect to base rpc
 - ## Usage
+- open index.html
