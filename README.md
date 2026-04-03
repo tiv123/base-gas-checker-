@@ -35,3 +35,5 @@ Exploring Ethereum Layer 2 (Base) and onchain data.
 - initial setup for base project
 ## Features
 - wallet interaction
+- base network support
+- 
