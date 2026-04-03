@@ -23,3 +23,4 @@ Exploring Ethereum Layer 2 (Base) and onchain data.
 ****
 ## Features coming soon
 - initial setup
+## Features coming soon
