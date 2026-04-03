@@ -44,3 +44,4 @@ e invested in things. Usage exa
 ## Roadmap
 - improve UI
 - connect to base rpc
+- ## Usage
