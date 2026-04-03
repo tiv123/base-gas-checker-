@@ -43,3 +43,4 @@ e invested in things. Usage exa
 - HTML/CSS
 ## Roadmap
 - improve UI
+- connect to base rpc
