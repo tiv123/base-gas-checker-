@@ -41,3 +41,4 @@ e invested in things. Usage exa
 ## Tech Stack
 - JavaScript
 - HTML/CSS
+## Roadmap
