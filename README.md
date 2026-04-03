@@ -32,3 +32,4 @@ Exploring Ethereum Layer 2 (Base) and onchain data.
 ## Features coming soon
 - initial setup
 ## Version 0.1
+- initial setup for base project
