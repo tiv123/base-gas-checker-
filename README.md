@@ -1,4 +1,4 @@
-# base-gas-checker-# Base Gas Fee Checker
+## Tech Stack# base-gas-checker-# Base Gas Fee Checker
 
 A lightweight tool to monitor gas fees on the Base network.
 
@@ -38,3 +38,4 @@ Exploring Ethereum Layer 2 (Base) and onchain data.
 - base network support
 - 
 e invested in things. Usage exa
+## Tech Stack
