@@ -46,3 +46,4 @@ e invested in things. Usage exa
 - connect to base rpc
 - ## Usage
 - open index.html
+Built on Base ecosystem 🚀
