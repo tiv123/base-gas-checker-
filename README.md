@@ -48,3 +48,5 @@ e invested in things. Usage exa
 - open index.html
 Built on Base ecosystem 🚀
 Exploring onchain data
+- base network support
+- 
