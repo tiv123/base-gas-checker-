@@ -49,4 +49,4 @@ e invested in things. Usage exa
 Built on Base ecosystem 🚀
 Exploring onchain data
 - base network support
-- 
+- ## Features coming soon
