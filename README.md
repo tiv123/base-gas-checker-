@@ -52,3 +52,4 @@ Exploring onchain data
 - ## Features coming soon
 ## Version 0.2
 - preparing enhanced dashboard
+- transaction analytics module
