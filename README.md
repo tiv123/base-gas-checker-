@@ -50,3 +50,4 @@ Built on Base ecosystem 🚀
 Exploring onchain data
 - base network support
 - ## Features coming soon
+## Version 0.2
