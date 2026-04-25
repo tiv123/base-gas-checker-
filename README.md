@@ -62,3 +62,4 @@ Gas efficiency tracking enabled.
 Continuous Base ecosystem development.
 .panel { padding: 20px; }
 button { cursor: pointer; }
+section { margin-top: 20px; }
