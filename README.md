@@ -70,3 +70,28 @@ Improving dashboard responsiveness.
 Refining Base network interaction flow.
 Preparing lightweight analytics module.
 Continuous frontend enhancement in progress.
+---
+
+# 🚀 Base Gas Fee Checker — Major Development Milestone
+
+The project has now entered a more advanced development phase focused on:
+
+- improving onchain transaction visibility
+- refining gas monitoring modules
+- expanding lightweight analytics dashboard
+- strengthening Base RPC interaction reliability
+- preparing scalable frontend architecture
+
+This milestone represents the transition from an experimental prototype into a structured Base ecosystem utility.
+
+### Current Progress Highlights
+- Core dashboard initialized
+- Network modules connected
+- Transaction feed planned
+- Analytics layer under active refinement
+- Continuous UI/UX enhancement
+
+### Builder Vision
+Building efficient and transparent onchain tooling for the Base ecosystem with a lightweight and scalable approach.
+
+Further updates are actively in progress.
