@@ -56,3 +56,4 @@ Exploring onchain data
 - gas monitor optimization
 ## Upcoming Improvements
 Builder journey continues on Base.
+Focused on scalable onchain tooling.
