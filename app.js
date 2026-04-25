@@ -14,3 +14,4 @@ function renderGas() {}
 function renderStats() {}
 console.log("stats ready");
 function initDashboard() {}
+console.log("dashboard initialized");
