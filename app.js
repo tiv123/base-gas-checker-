@@ -10,3 +10,4 @@ async function getGas() {
 getGas();
 function fetchNetwork() {}
 console.log("network loaded");
+function renderGas() {}
