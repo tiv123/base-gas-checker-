@@ -67,3 +67,4 @@ p { line-height: 1.5; }
 .panel { border-radius: 8px; }
 ## Development Notes
 Improving dashboard responsiveness.
+Refining Base network interaction flow.
