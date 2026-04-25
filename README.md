@@ -53,3 +53,4 @@ Exploring onchain data
 ## Version 0.2
 - preparing enhanced dashboard
 - transaction analytics module
+- gas monitor optimization
