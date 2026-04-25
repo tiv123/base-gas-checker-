@@ -54,3 +54,4 @@ Exploring onchain data
 - preparing enhanced dashboard
 - transaction analytics module
 - gas monitor optimization
+## Upcoming Improvements
