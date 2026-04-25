@@ -64,3 +64,4 @@ Continuous Base ecosystem development.
 button { cursor: pointer; }
 section { margin-top: 20px; }
 p { line-height: 1.5; }
+.panel { border-radius: 8px; }
