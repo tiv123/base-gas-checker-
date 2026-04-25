@@ -55,3 +55,4 @@ Exploring onchain data
 - transaction analytics module
 - gas monitor optimization
 ## Upcoming Improvements
+Builder journey continues on Base.
