@@ -12,3 +12,4 @@ function fetchNetwork() {}
 console.log("network loaded");
 function renderGas() {}
 function renderStats() {}
+console.log("stats ready");
