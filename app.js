@@ -17,3 +17,4 @@ function initDashboard() {}
 console.log("dashboard initialized");
 function fetchGasData() {}
 function fetchTxData() {}
+console.log("data modules ready");
