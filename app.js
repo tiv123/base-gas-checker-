@@ -11,3 +11,4 @@ getGas();
 function fetchNetwork() {}
 console.log("network loaded");
 function renderGas() {}
+function renderStats() {}
