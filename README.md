@@ -51,3 +51,4 @@ Exploring onchain data
 - base network support
 - ## Features coming soon
 ## Version 0.2
+- preparing enhanced dashboard
