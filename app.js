@@ -8,3 +8,4 @@ async function getGas() {
 }
 
 getGas();
+function fetchNetwork() {}
