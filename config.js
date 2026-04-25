@@ -3,3 +3,4 @@ feat: add config file
 button { border-radius: 6px; }
 section { font-weight: bold; }
 ## Milestone Update
+Core dashboard modules completed.
