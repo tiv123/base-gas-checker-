@@ -68,3 +68,4 @@ p { line-height: 1.5; }
 ## Development Notes
 Improving dashboard responsiveness.
 Refining Base network interaction flow.
+Preparing lightweight analytics module.
